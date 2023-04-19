@@ -1,5 +1,5 @@
 # SQL-SERVER-DBA
-##AdventureWorks2012 SQL Server DBA Project
+#AdventureWorks2012 SQL Server DBA Project
 This project showcases my skills as a SQL Server DBA using the AdventureWorks2012 database. The project includes various tasks such as backup, restore, recovery, adding users and logins, creating server roles, creating file groups and partitions, and more.
 
 The project was completed using SQL Server Management Studio (SSMS) and T-SQL commands. The code is organized into separate folders for each task, making it easy to navigate and understand.
