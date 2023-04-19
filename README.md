@@ -1,5 +1,4 @@
 # SQL-SERVER-DBA
-Sure, I can help you write an explanation for your project on GitHub. Here's an example of what you could write:
 
 ## AdventureWorks2012 SQL Server DBA Project
 
