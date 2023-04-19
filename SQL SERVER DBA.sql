@@ -1,5 +1,5 @@
 
---back 
+--back Up
 
 BACKUP DATABASE [AdventureWorks2012] TO 
 DISK = N'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\Backup\AdventureWorks2012_LogBackup_2023-04-15_04-02-51.bak'
